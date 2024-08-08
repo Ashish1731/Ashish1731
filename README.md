@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish1731
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Java Script
 - 📫 How to reach me @ ashishmacrotech@gmail.com
 
 <!---
